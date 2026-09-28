@@ -1,0 +1,12 @@
+data/
+reference/
+alignments/
+trimmed/
+config/Miniforge*.sh
+*.partial
+*.rds
+.DS_Store
+
+*.partial.gz
+.Rhistory
+__pycache__/

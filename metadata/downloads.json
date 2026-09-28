@@ -1,0 +1,58 @@
+[
+  {
+    "url": "https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR254/004/SRR2549634/SRR2549634.fastq.gz",
+    "path": "data/raw/SRR2549634.fastq.gz",
+    "bytes": 205213582,
+    "sha256": "0245faf1d83dd2a8a24a00344306a44b7c42289aaaac3fda47c4dff3677b2894",
+    "expected_ena_md5": "60898e1970ab6d477c32a6f47016a5ab"
+  },
+  {
+    "url": "https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR254/005/SRR2549635/SRR2549635.fastq.gz",
+    "path": "data/raw/SRR2549635.fastq.gz",
+    "bytes": 377138061,
+    "sha256": "231048fc4ecc8ae0734b654608df28bffe9d52a195529fc226072f53691a713e",
+    "expected_ena_md5": "d96dac5518e6c9bcd72d6c7bf7aa4ad9"
+  },
+  {
+    "url": "https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR254/006/SRR2549636/SRR2549636.fastq.gz",
+    "path": "data/raw/SRR2549636.fastq.gz",
+    "bytes": 396904719,
+    "sha256": "2331577756fc04b23a1f012a08255b885763382623956a8a5fa5af65a90f3dfa",
+    "expected_ena_md5": "49c358f38fd03b16428b61509a373a59"
+  },
+  {
+    "url": "https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR254/007/SRR2549637/SRR2549637.fastq.gz",
+    "path": "data/raw/SRR2549637.fastq.gz",
+    "bytes": 385667660,
+    "sha256": "768885b38bc6ae57ae60a9ce9402fa0ab00819ee559e5ea92abb7486a5c609bb",
+    "expected_ena_md5": "06a53364b4fb0955608031ba8cd4b94f"
+  },
+  {
+    "url": "https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR254/008/SRR2549638/SRR2549638.fastq.gz",
+    "path": "data/raw/SRR2549638.fastq.gz",
+    "bytes": 409701653,
+    "sha256": "7f23c52ef3e6831d7d3c0f49299ad51394205d6bef4e6593d774093626561c29",
+    "expected_ena_md5": "b518cd84c738a683f5985b05ec68f0cd"
+  },
+  {
+    "url": "https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR254/009/SRR2549639/SRR2549639.fastq.gz",
+    "path": "data/raw/SRR2549639.fastq.gz",
+    "bytes": 382605343,
+    "sha256": "c3eff8e6632eb7d79f1b4b199fed08316c5af4130d2d87a388f29ab7d0711ab7",
+    "expected_ena_md5": "14a1d5fae967c57fde32b6e16e2ef382"
+  },
+  {
+    "url": "https://ftp.ensembl.org/pub/release-115/fasta/saccharomyces_cerevisiae/dna/Saccharomyces_cerevisiae.R64-1-1.dna.toplevel.fa.gz",
+    "path": "reference/genome.fa.gz",
+    "bytes": 3784201,
+    "sha256": "a9953096d6a041a01a4cb5352b0232ee9373bf4c050fb23cb7ae673b2e1bb528",
+    "expected_ena_md5": null
+  },
+  {
+    "url": "https://ftp.ensembl.org/pub/release-115/gtf/saccharomyces_cerevisiae/Saccharomyces_cerevisiae.R64-1-1.115.gtf.gz",
+    "path": "reference/genes.gtf.gz",
+    "bytes": 595453,
+    "sha256": "5b20bb9a1ab7068fee9148f646ca1c12e68d656faddd5fde4ec8537dd26b9e89",
+    "expected_ena_md5": null
+  }
+]

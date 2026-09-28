@@ -1,0 +1,30 @@
+Read1 before filtering:
+total reads: 11376406
+total bases: 580196706
+Q20 bases: 577271837(99.4959%)
+Q30 bases: 570192889(98.2758%)
+Q40 bases: 322630952(55.6072%)
+
+Read1 after filtering:
+total reads: 11367094
+total bases: 579626672
+Q20 bases: 576889385(99.5277%)
+Q30 bases: 569852853(98.3138%)
+Q40 bases: 322500149(55.6393%)
+
+Filtering result:
+reads passed filter: 11367094
+reads failed due to low quality: 7427
+reads failed due to too many N: 12
+reads failed due to too short: 74
+reads failed due to adapter dimer: 1799
+reads with adapter trimmed: 16663
+bases trimmed due to adapters: 155617
+
+Duplication rate (may be overestimated since this is SE data): 73.7038%
+
+JSON report: results/fastp/sec66del_2.json
+HTML report: results/fastp/sec66del_2.html
+
+fastp -i data/raw/SRR2549638.fastq.gz -o trimmed/sec66del_2.fastq.gz.partial.gz --thread 3 --adapter_sequence AGATCGGAAGAGCACACGTCTGAACTCCAGTCA --qualified_quality_phred 20 --unqualified_percent_limit 40 --length_required 25 --compression 4 --json results/fastp/sec66del_2.json --html results/fastp/sec66del_2.html 
+fastp v1.3.7, time used: 50 seconds

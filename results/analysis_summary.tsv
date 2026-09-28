@@ -1,0 +1,10 @@
+metric	value
+genes_in_matrix	7127
+genes_after_low_count_filter	5657
+genes_with_nonmissing_padj	5657
+FDR05_genes	755
+FDR05_absLFC1_genes	61
+higher_in_sec66del_absLFC1	17
+lower_in_sec66del_absLFC1	44
+PC1_percent	85.5
+PC2_percent	10.1

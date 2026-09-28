@@ -1,0 +1,2 @@
+gene_id	gene_name	biotype	baseMean	log2FoldChange	lfcSE	stat	pvalue	padj	significant_FDR05	large_effect_FDR05
+YBR171W	SEC66	protein_coding	603.452769917532	-10.4907678076064	0.84081537978693	-12.4768980917843	9.97993451026681e-36	5.64564895245793e-32	TRUE	TRUE

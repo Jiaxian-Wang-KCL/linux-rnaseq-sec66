@@ -1,0 +1,37 @@
+Module	Section	Sample Name	Source
+featureCounts	all_sections	WT_1	/mnt/project/results/counts/featureCounts.tsv.summary
+featureCounts	all_sections	WT_2	/mnt/project/results/counts/featureCounts.tsv.summary
+featureCounts	all_sections	WT_3	/mnt/project/results/counts/featureCounts.tsv.summary
+featureCounts	all_sections	sec66del_1	/mnt/project/results/counts/featureCounts.tsv.summary
+featureCounts	all_sections	sec66del_2	/mnt/project/results/counts/featureCounts.tsv.summary
+featureCounts	all_sections	sec66del_3	/mnt/project/results/counts/featureCounts.tsv.summary
+Samtools	flagstat	WT_1	/mnt/project/logs/WT_1.flagstat.txt
+Samtools	flagstat	WT_2	/mnt/project/logs/WT_2.flagstat.txt
+Samtools	flagstat	WT_3	/mnt/project/logs/WT_3.flagstat.txt
+Samtools	flagstat	sec66del_1	/mnt/project/logs/sec66del_1.flagstat.txt
+Samtools	flagstat	sec66del_2	/mnt/project/logs/sec66del_2.flagstat.txt
+Samtools	flagstat	sec66del_3	/mnt/project/logs/sec66del_3.flagstat.txt
+Bowtie 2 / HiSAT2	all_sections	WT_1	/mnt/project/logs/WT_1.hisat2.summary.txt
+Bowtie 2 / HiSAT2	all_sections	WT_2	/mnt/project/logs/WT_2.hisat2.summary.txt
+Bowtie 2 / HiSAT2	all_sections	WT_3	/mnt/project/logs/WT_3.hisat2.log
+Bowtie 2 / HiSAT2	all_sections	sec66del_1	/mnt/project/logs/sec66del_1.hisat2.summary.txt
+Bowtie 2 / HiSAT2	all_sections	sec66del_2	/mnt/project/logs/sec66del_2.hisat2.summary.txt
+Bowtie 2 / HiSAT2	all_sections	sec66del_3	/mnt/project/logs/sec66del_3.hisat2.log
+fastp	all_sections	SRR2549634	/mnt/project/results/fastp/WT_1.json
+fastp	all_sections	SRR2549635	/mnt/project/results/fastp/WT_2.json
+fastp	all_sections	SRR2549636	/mnt/project/results/fastp/WT_3.json
+fastp	all_sections	SRR2549637	/mnt/project/results/fastp/sec66del_1.json
+fastp	all_sections	SRR2549638	/mnt/project/results/fastp/sec66del_2.json
+fastp	all_sections	SRR2549639	/mnt/project/results/fastp/sec66del_3.json
+FastQC	all_sections	SRR2549634	/mnt/project/results/fastqc_raw/SRR2549634_fastqc.zip
+FastQC	all_sections	SRR2549635	/mnt/project/results/fastqc_raw/SRR2549635_fastqc.zip
+FastQC	all_sections	SRR2549636	/mnt/project/results/fastqc_raw/SRR2549636_fastqc.zip
+FastQC	all_sections	SRR2549637	/mnt/project/results/fastqc_raw/SRR2549637_fastqc.zip
+FastQC	all_sections	SRR2549638	/mnt/project/results/fastqc_raw/SRR2549638_fastqc.zip
+FastQC	all_sections	SRR2549639	/mnt/project/results/fastqc_raw/SRR2549639_fastqc.zip
+FastQC	all_sections	WT_1	/mnt/project/results/fastqc_trimmed/WT_1_fastqc.zip
+FastQC	all_sections	WT_2	/mnt/project/results/fastqc_trimmed/WT_2_fastqc.zip
+FastQC	all_sections	WT_3	/mnt/project/results/fastqc_trimmed/WT_3_fastqc.zip
+FastQC	all_sections	sec66del_1	/mnt/project/results/fastqc_trimmed/sec66del_1_fastqc.zip
+FastQC	all_sections	sec66del_2	/mnt/project/results/fastqc_trimmed/sec66del_2_fastqc.zip
+FastQC	all_sections	sec66del_3	/mnt/project/results/fastqc_trimmed/sec66del_3_fastqc.zip

@@ -1,0 +1,15 @@
+Status	alignments/WT_1.bam	alignments/WT_2.bam	alignments/WT_3.bam	alignments/sec66del_1.bam	alignments/sec66del_2.bam	alignments/sec66del_3.bam
+Assigned	4491217	8334241	8816381	8452647	9063563	8507077
+Unassigned_Unmapped	235886	331809	354752	507302	481322	359309
+Unassigned_Read_Type	0	0	0	0	0	0
+Unassigned_Singleton	0	0	0	0	0	0
+Unassigned_MappingQuality	1852237	3682131	3719855	3907335	3944765	3648714
+Unassigned_Chimera	0	0	0	0	0	0
+Unassigned_FragmentLength	0	0	0	0	0	0
+Unassigned_Duplicate	0	0	0	0	0	0
+Unassigned_MultiMapping	0	0	0	0	0	0
+Unassigned_Secondary	0	0	0	0	0	0
+Unassigned_NonSplit	0	0	0	0	0	0
+Unassigned_NoFeatures	417411	776886	805926	739931	764773	894894
+Unassigned_Overlapping_Length	0	0	0	0	0	0
+Unassigned_Ambiguity	16416	30840	32387	36086	41270	31351

@@ -1,0 +1,22 @@
+Pipeline started: 2026-09-28T06:17:34+01:00
+Downloading complete sample: WT_1 SRR2549634
+Downloading complete sample: WT_2 SRR2549635
+Downloading complete sample: WT_3 SRR2549636
+Downloading complete sample: sec66del_1 SRR2549637
+Downloading complete sample: sec66del_2 SRR2549638
+Downloading complete sample: sec66del_3 SRR2549639
+All downloads verified. FASTQs were not subsampled.
+Processing WT_1 (SRR2549634): 2026-09-28T06:18:34+01:00
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+Processing WT_2 (SRR2549635): 2026-09-28T06:22:22+01:00
+[bam_sort_core] merging from 7 files and 1 in-memory blocks...
+Processing WT_3 (SRR2549636): 2026-09-28T06:27:51+01:00
+[bam_sort_core] merging from 7 files and 1 in-memory blocks...
+Processing sec66del_1 (SRR2549637): 2026-09-28T06:33:48+01:00
+[bam_sort_core] merging from 7 files and 1 in-memory blocks...
+Processing sec66del_2 (SRR2549638): 2026-09-28T06:39:25+01:00
+[bam_sort_core] merging from 8 files and 1 in-memory blocks...
+Processing sec66del_3 (SRR2549639): 2026-09-28T06:45:30+01:00
+[bam_sort_core] merging from 7 files and 1 in-memory blocks...
+Validated 7127 genes × 6 samples; selected strand=2
+Pipeline completed: 2026-09-28T06:52:43+01:00

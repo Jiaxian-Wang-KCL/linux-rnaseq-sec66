@@ -1,0 +1,16 @@
+
+/// MultiQC 🔍 v1.35
+
+       file_search | Search path: /mnt/project/results/fastqc_raw
+       file_search | Search path: /mnt/project/results/fastqc_trimmed
+       file_search | Search path: /mnt/project/results/fastp
+       file_search | Search path: /mnt/project/logs
+       file_search | Search path: /mnt/project/results/counts
+     featurecounts | Found 6 reports
+          samtools | Found 6 flagstat reports
+           bowtie2 | Found 6 reports
+             fastp | Found 6 reports
+            fastqc | Found 12 reports
+     write_results | Data        : results/multiqc/multiqc_data
+     write_results | Report      : results/multiqc/multiqc_report.html
+           multiqc | MultiQC complete

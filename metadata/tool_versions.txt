@@ -1,0 +1,10 @@
+Linux analysis-vm 6.8.0-134-generic #134-Ubuntu SMP PREEMPT_DYNAMIC Fri Jun 26 18:28:11 UTC 2026 aarch64 aarch64 aarch64 GNU/Linux
+FastQC v0.12.1
+fastp 1.3.7
+/home/analysis-user/miniforge3/envs/rnaseq/bin/hisat2-align-s version 2.2.3
+samtools 1.24
+Using htslib 1.24
+
+featureCounts v2.1.1
+
+R 4.5.3; DESeq2 1.50.2

@@ -1,0 +1,92 @@
+
+        ==========     _____ _    _ ____  _____  ______          _____  
+        =====         / ____| |  | |  _ \|  __ \|  ____|   /\   |  __ \ 
+          =====      | (___ | |  | | |_) | |__) | |__     /  \  | |  | |
+            ====      \___ \| |  | |  _ <|  _  /|  __|   / /\ \ | |  | |
+              ====    ____) | |__| | |_) | | \ \| |____ / ____ \| |__| |
+        ==========   |_____/ \____/|____/|_|  \_\______/_/    \_\_____/
+	  v2.1.1
+
+//========================== featureCounts setting ===========================\\
+||                                                                            ||
+||             Input files : 6 BAM files                                      ||
+||                                                                            ||
+||                           WT_1.bam                                         ||
+||                           WT_2.bam                                         ||
+||                           WT_3.bam                                         ||
+||                           sec66del_1.bam                                   ||
+||                           sec66del_2.bam                                   ||
+||                           sec66del_3.bam                                   ||
+||                                                                            ||
+||             Output file : strand1.tsv                                      ||
+||                 Summary : strand1.tsv.summary                              ||
+||              Paired-end : no                                               ||
+||        Count read pairs : no                                               ||
+||              Annotation : genes.gtf (GTF)                                  ||
+||      Dir for temp files : results/strand_check                             ||
+||                                                                            ||
+||                 Threads : 3                                                ||
+||                   Level : meta-feature level                               ||
+||      Multimapping reads : not counted                                      ||
+|| Multi-overlapping reads : not counted                                      ||
+||   Min overlapping bases : 1                                                ||
+||                                                                            ||
+\\============================================================================//
+
+//================================= Running ==================================\\
+||                                                                            ||
+|| Load annotation file genes.gtf ...                                         ||
+||    Features : 7507                                                         ||
+||    Meta-features : 7127                                                    ||
+||    Chromosomes/contigs : 17                                                ||
+||                                                                            ||
+|| Process BAM file WT_1.bam...                                               ||
+||    Strand specific : stranded                                              ||
+||    Single-end reads are included.                                          ||
+||    Total alignments : 7013167                                              ||
+||    Successfully assigned alignments : 292030 (4.2%)                        ||
+||    Running time : 0.04 minutes                                             ||
+||                                                                            ||
+|| Process BAM file WT_2.bam...                                               ||
+||    Strand specific : stranded                                              ||
+||    Single-end reads are included.                                          ||
+||    Total alignments : 13155907                                             ||
+||    Successfully assigned alignments : 520795 (4.0%)                        ||
+||    Running time : 0.08 minutes                                             ||
+||                                                                            ||
+|| Process BAM file WT_3.bam...                                               ||
+||    Strand specific : stranded                                              ||
+||    Single-end reads are included.                                          ||
+||    Total alignments : 13729301                                             ||
+||    Successfully assigned alignments : 554644 (4.0%)                        ||
+||    Running time : 0.08 minutes                                             ||
+||                                                                            ||
+|| Process BAM file sec66del_1.bam...                                         ||
+||    Strand specific : stranded                                              ||
+||    Single-end reads are included.                                          ||
+||    Total alignments : 13643301                                             ||
+||    Successfully assigned alignments : 508387 (3.7%)                        ||
+||    Running time : 0.08 minutes                                             ||
+||                                                                            ||
+|| Process BAM file sec66del_2.bam...                                         ||
+||    Strand specific : stranded                                              ||
+||    Single-end reads are included.                                          ||
+||    Total alignments : 14295693                                             ||
+||    Successfully assigned alignments : 524928 (3.7%)                        ||
+||    Running time : 0.08 minutes                                             ||
+||                                                                            ||
+|| Process BAM file sec66del_3.bam...                                         ||
+||    Strand specific : stranded                                              ||
+||    Single-end reads are included.                                          ||
+||    Total alignments : 13441345                                             ||
+||    Successfully assigned alignments : 468752 (3.5%)                        ||
+||    Running time : 0.09 minutes                                             ||
+||                                                                            ||
+|| Write the final count table.                                               ||
+|| Write the read assignment summary.                                         ||
+||                                                                            ||
+|| Summary of counting results can be found in file "results/strand_check/st  ||
+|| rand1.tsv.summary"                                                         ||
+||                                                                            ||
+\\============================================================================//
+

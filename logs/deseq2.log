@@ -1,0 +1,19 @@
+estimating size factors
+estimating dispersions
+gene-wise dispersion estimates
+mean-dispersion relationship
+final dispersion estimates
+fitting model and testing
+using ntop=500 top features by variance
+null device 
+          1 
+                       metric  value
+              genes_in_matrix 7127.0
+ genes_after_low_count_filter 5657.0
+   genes_with_nonmissing_padj 5657.0
+                  FDR05_genes  755.0
+          FDR05_absLFC1_genes   61.0
+   higher_in_sec66del_absLFC1   17.0
+    lower_in_sec66del_absLFC1   44.0
+                  PC1_percent   85.5
+                  PC2_percent   10.1

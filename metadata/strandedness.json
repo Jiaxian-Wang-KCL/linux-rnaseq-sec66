@@ -1,0 +1,54 @@
+{
+  "selected_featureCounts_s": 2,
+  "rationale": "All six samples: selected/unstranded >0.8; selected/opposite >4.",
+  "samples": [
+    {
+      "sample": "WT_1",
+      "unstranded": 4310557,
+      "forward": 292030,
+      "reverse": 4491217,
+      "selected_fraction_of_unstranded": 1.0419110569701318,
+      "selected_over_opposite": 15.37930007191042
+    },
+    {
+      "sample": "WT_2",
+      "unstranded": 8005845,
+      "forward": 520795,
+      "reverse": 8334241,
+      "selected_fraction_of_unstranded": 1.0410195301058165,
+      "selected_over_opposite": 16.00292053495137
+    },
+    {
+      "sample": "WT_3",
+      "unstranded": 8455949,
+      "forward": 554644,
+      "reverse": 8816381,
+      "selected_fraction_of_unstranded": 1.0426246657826341,
+      "selected_over_opposite": 15.895567246738448
+    },
+    {
+      "sample": "sec66del_1",
+      "unstranded": 8132190,
+      "forward": 508387,
+      "reverse": 8452647,
+      "selected_fraction_of_unstranded": 1.0394059902683042,
+      "selected_over_opposite": 16.626402720761938
+    },
+    {
+      "sample": "sec66del_2",
+      "unstranded": 8727903,
+      "forward": 524928,
+      "reverse": 9063563,
+      "selected_fraction_of_unstranded": 1.0384582642588946,
+      "selected_over_opposite": 17.266297473177275
+    },
+    {
+      "sample": "sec66del_3",
+      "unstranded": 8238953,
+      "forward": 468752,
+      "reverse": 8507077,
+      "selected_fraction_of_unstranded": 1.0325434554609063,
+      "selected_over_opposite": 18.1483535003584
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+stage	sample	module	status
+fastqc_raw	SRR2549634.fastq.gz	Basic Statistics	PASS
+fastqc_raw	SRR2549634.fastq.gz	Per base sequence quality	PASS
+fastqc_raw	SRR2549634.fastq.gz	Per tile sequence quality	PASS
+fastqc_raw	SRR2549634.fastq.gz	Per sequence quality scores	PASS
+fastqc_raw	SRR2549634.fastq.gz	Per base sequence content	FAIL
+fastqc_raw	SRR2549634.fastq.gz	Per sequence GC content	WARN
+fastqc_raw	SRR2549634.fastq.gz	Per base N content	PASS
+fastqc_raw	SRR2549634.fastq.gz	Sequence Length Distribution	PASS
+fastqc_raw	SRR2549634.fastq.gz	Sequence Duplication Levels	FAIL
+fastqc_raw	SRR2549634.fastq.gz	Overrepresented sequences	PASS
+fastqc_raw	SRR2549634.fastq.gz	Adapter Content	PASS
+fastqc_raw	SRR2549635.fastq.gz	Basic Statistics	PASS
+fastqc_raw	SRR2549635.fastq.gz	Per base sequence quality	PASS
+fastqc_raw	SRR2549635.fastq.gz	Per tile sequence quality	PASS
+fastqc_raw	SRR2549635.fastq.gz	Per sequence quality scores	PASS
+fastqc_raw	SRR2549635.fastq.gz	Per base sequence content	FAIL
+fastqc_raw	SRR2549635.fastq.gz	Per sequence GC content	PASS
+fastqc_raw	SRR2549635.fastq.gz	Per base N content	PASS
+fastqc_raw	SRR2549635.fastq.gz	Sequence Length Distribution	PASS
+fastqc_raw	SRR2549635.fastq.gz	Sequence Duplication Levels	FAIL
+fastqc_raw	SRR2549635.fastq.gz	Overrepresented sequences	PASS
+fastqc_raw	SRR2549635.fastq.gz	Adapter Content	PASS
+fastqc_raw	SRR2549636.fastq.gz	Basic Statistics	PASS
+fastqc_raw	SRR2549636.fastq.gz	Per base sequence quality	PASS
+fastqc_raw	SRR2549636.fastq.gz	Per tile sequence quality	PASS
+fastqc_raw	SRR2549636.fastq.gz	Per sequence quality scores	PASS
+fastqc_raw	SRR2549636.fastq.gz	Per base sequence content	FAIL
+fastqc_raw	SRR2549636.fastq.gz	Per sequence GC content	PASS
+fastqc_raw	SRR2549636.fastq.gz	Per base N content	PASS
+fastqc_raw	SRR2549636.fastq.gz	Sequence Length Distribution	PASS
+fastqc_raw	SRR2549636.fastq.gz	Sequence Duplication Levels	FAIL
+fastqc_raw	SRR2549636.fastq.gz	Overrepresented sequences	PASS
+fastqc_raw	SRR2549636.fastq.gz	Adapter Content	PASS
+fastqc_raw	SRR2549637.fastq.gz	Basic Statistics	PASS
+fastqc_raw	SRR2549637.fastq.gz	Per base sequence quality	PASS
+fastqc_raw	SRR2549637.fastq.gz	Per tile sequence quality	PASS
+fastqc_raw	SRR2549637.fastq.gz	Per sequence quality scores	PASS
+fastqc_raw	SRR2549637.fastq.gz	Per base sequence content	FAIL
+fastqc_raw	SRR2549637.fastq.gz	Per sequence GC content	PASS
+fastqc_raw	SRR2549637.fastq.gz	Per base N content	PASS
+fastqc_raw	SRR2549637.fastq.gz	Sequence Length Distribution	PASS
+fastqc_raw	SRR2549637.fastq.gz	Sequence Duplication Levels	FAIL
+fastqc_raw	SRR2549637.fastq.gz	Overrepresented sequences	PASS
+fastqc_raw	SRR2549637.fastq.gz	Adapter Content	PASS
+fastqc_raw	SRR2549638.fastq.gz	Basic Statistics	PASS
+fastqc_raw	SRR2549638.fastq.gz	Per base sequence quality	PASS
+fastqc_raw	SRR2549638.fastq.gz	Per tile sequence quality	PASS
+fastqc_raw	SRR2549638.fastq.gz	Per sequence quality scores	PASS
+fastqc_raw	SRR2549638.fastq.gz	Per base sequence content	FAIL
+fastqc_raw	SRR2549638.fastq.gz	Per sequence GC content	PASS
+fastqc_raw	SRR2549638.fastq.gz	Per base N content	PASS
+fastqc_raw	SRR2549638.fastq.gz	Sequence Length Distribution	PASS
+fastqc_raw	SRR2549638.fastq.gz	Sequence Duplication Levels	FAIL
+fastqc_raw	SRR2549638.fastq.gz	Overrepresented sequences	PASS
+fastqc_raw	SRR2549638.fastq.gz	Adapter Content	PASS
+fastqc_raw	SRR2549639.fastq.gz	Basic Statistics	PASS
+fastqc_raw	SRR2549639.fastq.gz	Per base sequence quality	PASS
+fastqc_raw	SRR2549639.fastq.gz	Per tile sequence quality	PASS
+fastqc_raw	SRR2549639.fastq.gz	Per sequence quality scores	PASS
+fastqc_raw	SRR2549639.fastq.gz	Per base sequence content	FAIL
+fastqc_raw	SRR2549639.fastq.gz	Per sequence GC content	PASS
+fastqc_raw	SRR2549639.fastq.gz	Per base N content	PASS
+fastqc_raw	SRR2549639.fastq.gz	Sequence Length Distribution	PASS
+fastqc_raw	SRR2549639.fastq.gz	Sequence Duplication Levels	FAIL
+fastqc_raw	SRR2549639.fastq.gz	Overrepresented sequences	PASS
+fastqc_raw	SRR2549639.fastq.gz	Adapter Content	PASS
+fastqc_trimmed	WT_1.fastq.gz	Basic Statistics	PASS
+fastqc_trimmed	WT_1.fastq.gz	Per base sequence quality	PASS
+fastqc_trimmed	WT_1.fastq.gz	Per tile sequence quality	PASS
+fastqc_trimmed	WT_1.fastq.gz	Per sequence quality scores	PASS
+fastqc_trimmed	WT_1.fastq.gz	Per base sequence content	FAIL
+fastqc_trimmed	WT_1.fastq.gz	Per sequence GC content	PASS
+fastqc_trimmed	WT_1.fastq.gz	Per base N content	PASS
+fastqc_trimmed	WT_1.fastq.gz	Sequence Length Distribution	WARN
+fastqc_trimmed	WT_1.fastq.gz	Sequence Duplication Levels	FAIL
+fastqc_trimmed	WT_1.fastq.gz	Overrepresented sequences	PASS
+fastqc_trimmed	WT_1.fastq.gz	Adapter Content	PASS
+fastqc_trimmed	WT_2.fastq.gz	Basic Statistics	PASS
+fastqc_trimmed	WT_2.fastq.gz	Per base sequence quality	PASS
+fastqc_trimmed	WT_2.fastq.gz	Per tile sequence quality	PASS
+fastqc_trimmed	WT_2.fastq.gz	Per sequence quality scores	PASS
+fastqc_trimmed	WT_2.fastq.gz	Per base sequence content	FAIL
+fastqc_trimmed	WT_2.fastq.gz	Per sequence GC content	PASS
+fastqc_trimmed	WT_2.fastq.gz	Per base N content	PASS
+fastqc_trimmed	WT_2.fastq.gz	Sequence Length Distribution	WARN
+fastqc_trimmed	WT_2.fastq.gz	Sequence Duplication Levels	FAIL
+fastqc_trimmed	WT_2.fastq.gz	Overrepresented sequences	PASS
+fastqc_trimmed	WT_2.fastq.gz	Adapter Content	PASS
+fastqc_trimmed	WT_3.fastq.gz	Basic Statistics	PASS
+fastqc_trimmed	WT_3.fastq.gz	Per base sequence quality	PASS
+fastqc_trimmed	WT_3.fastq.gz	Per tile sequence quality	PASS
+fastqc_trimmed	WT_3.fastq.gz	Per sequence quality scores	PASS
+fastqc_trimmed	WT_3.fastq.gz	Per base sequence content	FAIL
+fastqc_trimmed	WT_3.fastq.gz	Per sequence GC content	PASS
+fastqc_trimmed	WT_3.fastq.gz	Per base N content	PASS
+fastqc_trimmed	WT_3.fastq.gz	Sequence Length Distribution	WARN
+fastqc_trimmed	WT_3.fastq.gz	Sequence Duplication Levels	FAIL
+fastqc_trimmed	WT_3.fastq.gz	Overrepresented sequences	PASS
+fastqc_trimmed	WT_3.fastq.gz	Adapter Content	PASS
+fastqc_trimmed	sec66del_1.fastq.gz	Basic Statistics	PASS
+fastqc_trimmed	sec66del_1.fastq.gz	Per base sequence quality	PASS
+fastqc_trimmed	sec66del_1.fastq.gz	Per tile sequence quality	PASS
+fastqc_trimmed	sec66del_1.fastq.gz	Per sequence quality scores	PASS
+fastqc_trimmed	sec66del_1.fastq.gz	Per base sequence content	FAIL
+fastqc_trimmed	sec66del_1.fastq.gz	Per sequence GC content	PASS
+fastqc_trimmed	sec66del_1.fastq.gz	Per base N content	PASS
+fastqc_trimmed	sec66del_1.fastq.gz	Sequence Length Distribution	WARN
+fastqc_trimmed	sec66del_1.fastq.gz	Sequence Duplication Levels	FAIL
+fastqc_trimmed	sec66del_1.fastq.gz	Overrepresented sequences	PASS
+fastqc_trimmed	sec66del_1.fastq.gz	Adapter Content	PASS
+fastqc_trimmed	sec66del_2.fastq.gz	Basic Statistics	PASS
+fastqc_trimmed	sec66del_2.fastq.gz	Per base sequence quality	PASS
+fastqc_trimmed	sec66del_2.fastq.gz	Per tile sequence quality	PASS
+fastqc_trimmed	sec66del_2.fastq.gz	Per sequence quality scores	PASS
+fastqc_trimmed	sec66del_2.fastq.gz	Per base sequence content	FAIL
+fastqc_trimmed	sec66del_2.fastq.gz	Per sequence GC content	PASS
+fastqc_trimmed	sec66del_2.fastq.gz	Per base N content	PASS
+fastqc_trimmed	sec66del_2.fastq.gz	Sequence Length Distribution	WARN
+fastqc_trimmed	sec66del_2.fastq.gz	Sequence Duplication Levels	FAIL
+fastqc_trimmed	sec66del_2.fastq.gz	Overrepresented sequences	PASS
+fastqc_trimmed	sec66del_2.fastq.gz	Adapter Content	PASS
+fastqc_trimmed	sec66del_3.fastq.gz	Basic Statistics	PASS
+fastqc_trimmed	sec66del_3.fastq.gz	Per base sequence quality	PASS
+fastqc_trimmed	sec66del_3.fastq.gz	Per tile sequence quality	PASS
+fastqc_trimmed	sec66del_3.fastq.gz	Per sequence quality scores	PASS
+fastqc_trimmed	sec66del_3.fastq.gz	Per base sequence content	FAIL
+fastqc_trimmed	sec66del_3.fastq.gz	Per sequence GC content	PASS
+fastqc_trimmed	sec66del_3.fastq.gz	Per base N content	PASS
+fastqc_trimmed	sec66del_3.fastq.gz	Sequence Length Distribution	WARN
+fastqc_trimmed	sec66del_3.fastq.gz	Sequence Duplication Levels	FAIL
+fastqc_trimmed	sec66del_3.fastq.gz	Overrepresented sequences	PASS
+fastqc_trimmed	sec66del_3.fastq.gz	Adapter Content	PASS

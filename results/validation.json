@@ -1,0 +1,16 @@
+{
+  "status": "passed",
+  "samples": 6,
+  "genes_in_matrix": 7127,
+  "genes_tested": 5657,
+  "FDR05_absLFC1_genes": 61,
+  "checks": [
+    "sample order",
+    "count column sums equal assigned reads",
+    "raw read counts match ENA",
+    "differential expression thresholds and summary totals",
+    "12 FastQC archives",
+    "5 figures and MultiQC report"
+  ],
+  "interpretation_note": "Technical checks passed; see RESULTS.md for biological variability and FastQC flags."
+}
